@@ -1,1 +1,1 @@
-# EEGLAB-in-hpc
+# EEG analysis
